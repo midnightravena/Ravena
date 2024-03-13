@@ -1,0 +1,30 @@
+{
+	"name": "ravena",
+	"version": "1.0.0",
+	"description": "🐦‍⬛ The minimal & fast library for functional user interfaces",
+	"private": true,
+	"scripts": {
+		"build": "node build/build.js",
+		"test": "MOON_ENV=\"development\" jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/midnightravena/Ravena.git"
+	},
+	"author": "Sahil",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/midnightravena/Ravena/issues"
+	},
+	"homepage": "https://github.com/midnightravena/Ravena#readme",
+	"devDependencies": {
+		"@babel/core": "^7.7.7",
+		"@babel/preset-env": "^7.7.7",
+		"gzip-size": "^5.0.0",
+		"jest": "^24.9.0",
+		"rollup": "^1.27.14",
+		"rollup-plugin-babel": "^4.3.2",
+		"rollup-plugin-eslint": "^5.1.0",
+		"terser": "^4.4.3"
+	}
+}
