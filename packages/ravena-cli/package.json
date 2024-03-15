@@ -1,0 +1,24 @@
+{
+	"name": "ravena-cli",
+	"version": "1.0.0",
+	"description": "Ravema CLI for creating applications",
+	"main": "dist/ravena-cli.min.js",
+	"bin": {
+		"moon": "dist/ravena-cli.min.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/midnightravena/Ravena.git"
+	},
+	"keywords": [
+		"CLI",
+		"create",
+		"application"
+	],
+	"author": "Sahil",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/midnightravena/Ravena/issues"
+	},
+	"homepage": "https://github.com/midnightravena/Ravena#readme"
+}
