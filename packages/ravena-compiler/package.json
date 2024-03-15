@@ -1,0 +1,20 @@
+{
+	"name": "ravena-compiler",
+	"version": "1.0.0",
+	"description": "Ravena view syntax compiler",
+	"main": "dist/ravena-compiler.min.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/midnightravena/Ravena.git"
+	},
+	"keywords": [
+		"syntax",
+		"compiler"
+	],
+	"author": "Sahil",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/midnightravena/Ravena/issues"
+	},
+	"homepage": "https://github.com/midnightravena/Ravena#readme"
+}
