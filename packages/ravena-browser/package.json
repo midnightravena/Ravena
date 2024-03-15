@@ -1,0 +1,20 @@
+{
+	"name": "ravena-browser",
+	"version": "1.0.0",
+	"description": "Ravena view syntax compiler for the browser",
+	"main": "dist/ravena-browser.min.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/midnightravena/Ravena.git"
+	},
+	"keywords": [
+		"syntax",
+		"browser"
+	],
+	"author": "Sahil",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/midnightravena/Ravena/issues"
+	},
+	"homepage": "https://github.com/midnightravena/Ravena#readme"
+}
