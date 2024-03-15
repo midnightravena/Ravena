@@ -2,8 +2,6 @@
 
 Please ensure you have understood the guidelines before contributing, it helps keep the code organized.
 
-* [Development Setup](https://github.com/midnightravena/Ravena/blob/master/CONTRIBUTING.md#development-setup)
-* [Development](https://github.com/kbrsh/midnightravena/Ravena/master/CONTRIBUTING.md#development)
 * [Submitting an Issue](https://github.com/midnightravena/Ravena/blob/master/CONTRIBUTING.md#submitting-an-issue)
 * [Submitting a Pull Request](https://github.com/midnightravena/Ravena/blob/master/CONTRIBUTING.md#submitting-a-pull-request)
 
