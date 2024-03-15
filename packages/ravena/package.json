@@ -1,0 +1,22 @@
+{
+	"name": "ravena",
+	"version": "1.0.0",
+	"description": "🐦‍⬛ The minimal & fast library for functional user interfaces",
+	"main": "dist/ravena.min.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/midnightravena/Ravena.git"
+	},
+	"keywords": [
+		"fast",
+		"library",
+		"functional",
+		"UI"
+	],
+	"author": "Sahil",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/midnightravena/Ravena/issues"
+	},
+	"homepage": "https://github.com/midnightravena/Ravena#readme"
+}
